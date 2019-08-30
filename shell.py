@@ -11,4 +11,5 @@ def shell_cmd(cmd):
     os.system(cmd)
 
 if __name__ == '__main__':
+    
     shell_cmd('ping -c 6 baidu.com')
