@@ -19,3 +19,4 @@
 ## 模组清单
 
 * [发送邮件](./mail.py) - 发送邮件（可添加附件）
+* [WIFI名称](./wifi.py) - 获取WIFI名称（MAC OS ONLY）

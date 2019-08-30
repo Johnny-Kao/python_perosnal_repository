@@ -10,7 +10,7 @@ from email.mime.application import MIMEApplication
 # 功能：单一收件人、任意填写的发信人、任意主题、任意内文、附件
 # 待优化：确认附件档案大小/格式、确认可使用的服务器
 # 已知可使用stmp.qq.com
-
+# =================================
 
 # 邮件服务器/登入账号/登录密码或API_Secret
 smtp_srv = "YOUR_SERVER_ADDRESS"
