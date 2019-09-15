@@ -12,4 +12,5 @@ def shell_cmd_return(cmd):
     return res
 
 if __name__ == '__main__':
+    
     print(shell_cmd_return('ping -c 6 baidu.com'))

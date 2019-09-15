@@ -18,7 +18,11 @@
 
 ## 模组清单
 
+### Python模组
 * [发送邮件](./mail.py) - 发送邮件（可添加附件）
 * [WIFI名称](./wifi.py) - 获取WIFI名称（MAC OS ONLY）
 * [执行SHELL指令（非变数)](./shell.py) - 执行SHELL指令，结果不可作为变数
 * [执行SHELL指令（变数)](./shellreturn.py) - 执行SHELL指令，结果可作为变数
+
+### 提升效率SHELL
+* [更新PIP套件](./pip3update.py) - 更新pip3套件
